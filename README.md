@@ -1,4 +1,4 @@
-![Header](https://github.com/kirinomitake/kirinomitake/blob/main/assets/Header.png)
+![Header](https://github.com/kirinomitake/kirinomitake/blob/main/assets/Header.png?raw=true)
 
 # It's not a bug, it's a feature... and I'm here to find it. 🎮
 ### **Technical Game QA Engineer | Unity & C# Specialist**
@@ -13,40 +13,26 @@ In this repository, I share the results of PC and mobile game testing conducted 
 
 ### 🛠 Tech Stack & Tools
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="70%" valign="top">
-      <table border="0">
-        <tr>
-          <td><b>Engines & Tools</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white">
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-          </td>
-        </tr>
-        <tr>
-          <td><b>Network & API</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-            <img src="https://img.shields.io/badge/Charles-2C3E50?style=for-the-badge&logo=charles&logoColor=white">
-            <img src="https://img.shields.io/badge/Fiddler-000?style=for-the-badge&logo=telerik&logoColor=white">
-          </td>
-        </tr>
-        <tr>
-          <td><b>Management</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-            <img src="https://img.shields.io/badge/TestRail-3BB44A?style=for-the-badge&logo=testrail&logoColor=white">
-            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-          </td>
-        </tr>
-      </table>
+<table border="0">
+  <tr style="border: none;">
+    <td width="650" valign="middle" style="border: none;">
+      <h4><b>Engines & Tools</b></h4>
+      <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white"> 
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <br>
+      <h4><b>Network & API</b></h4>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Charles-2C3E50?style=for-the-badge&logo=charles&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Fiddler-000?style=for-the-badge&logo=telerik&logoColor=white">
+      <br>
+      <h4><b>QA Management</b></h4>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
+      <img src="https://img.shields.io/badge/TestRail-3BB44A?style=for-the-badge&logo=testrail&logoColor=white"> 
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
-    <td width="30%" align="center" valign="middle">
-      <a href="#">
-        <img src="" width="200" alt="">
-      </a>
+    <td valign="middle" align="center" style="border: none;">
+      <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/i%20love%20bug'z.gif?raw=true" width="200">
     </td>
   </tr>
 </table>
@@ -79,8 +65,10 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivansiniakov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
 
-<br>
 
+
+---
+<br>
 <p align="center">
-  <img src="" width="400">
+  <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/Sir%20Daniel%20Fortescue.gif?raw=true" width="700" height= "300">
 </p>
