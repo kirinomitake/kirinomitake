@@ -7,17 +7,49 @@ I am a Game QA Engineer with a solid background in development. My experience in
 
 In this repository, I share the results of PC and mobile game testing conducted as part of personal and educational projects.
 
-📄 **[View My Resume](https://drive.google.com/file/d/16-_G0qFYCgAVF4hTfqnGoJFJw-UQbHEU/view?usp=sharing)**
+📄 **[View My Resume](https://drive.google.com/file/d/1SB8XuPYDToXaKNP6V-6FOBtTXNne_jAG/view?usp=sharing)**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
-| Category | Tools |
-| :--- | :--- |
-| **Engines & Tools** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Network & API** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-2C3E50?style=flat-square&logo=charles&logoColor=white) ![Fiddler](https://img.shields.io/badge/Fiddler-000?style=flat-square&logo=telerik&logoColor=white) |
-| **QA Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-3BB44A?style=flat-square&logo=testrail&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="70%" valign="top">
+      <table border="0">
+        <tr>
+          <td><b>Engines & Tools</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white">
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+          </td>
+        </tr>
+        <tr>
+          <td><b>Network & API</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+            <img src="https://img.shields.io/badge/Charles-2C3E50?style=for-the-badge&logo=charles&logoColor=white">
+            <img src="https://img.shields.io/badge/Fiddler-000?style=for-the-badge&logo=telerik&logoColor=white">
+          </td>
+        </tr>
+        <tr>
+          <td><b>Management</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+            <img src="https://img.shields.io/badge/TestRail-3BB44A?style=for-the-badge&logo=testrail&logoColor=white">
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <a href="#">
+        <img src="" width="200" alt="">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,12 +70,17 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 * **Comprehensive Bug Reports:** My reports include not only reproduction steps but also logs, stack traces, and root cause analysis, which significantly reduces the time required for a fix.
 * **Autonomy and Debugging:** Proficient in Unity tools for localizing issues. I can independently isolate a defect without distracting the development team.
 * **Architectural Understanding:** I see the interdependencies between software modules and accurately assess regression risks.
-* **Continuous Learning:** I have a strong passion for learning and quickly mastering new technologies. I stay up-to-date with industry trends to bring the most effective solutions to the project.
 * **AI-Assisted Efficiency:** Skilled in leveraging **AI tools** to optimize testing processes, write better documentation, and accelerate technical research.
 
 ---
 
 ### 📫 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirinomitakeHighQ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-siniakov-2401823b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivansiniakov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
+
+<br>
+
+<p align="center">
+  <img src="" width="400">
+</p>
