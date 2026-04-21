@@ -1,3 +1,5 @@
+![Header](https://github.com/kirinomitake/kirinomitake/blob/main/assets/Header.png)
+
 # It's not a bug, it's a feature... and I'm here to find it. 🎮
 ### **Technical Game QA Engineer | Unity & C# Specialist**
 
