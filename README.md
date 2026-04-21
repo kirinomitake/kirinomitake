@@ -13,29 +13,18 @@ In this repository, I share the results of PC and mobile game testing conducted 
 
 ### 🛠 Tech Stack & Tools
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td width="650" valign="middle" style="border: none; padding: 0;">
-      <h4><b>Engines & Tools</b></h4>
-      <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white"> 
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <br>
-      <h4><b>Network & API</b></h4>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Charles-2C3E50?style=for-the-badge&logo=charles&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Fiddler-000?style=for-the-badge&logo=telerik&logoColor=white">
-      <br>
-      <h4><b>QA Management</b></h4>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
-      <img src="https://img.shields.io/badge/TestRail-3BB44A?style=for-the-badge&logo=testrail&logoColor=white"> 
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </td>
-    <td valign="middle" align="center" style="border: none; padding: 0;">
-      <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/i%20love%20bug'z.gif?raw=true" width="300">
-    </td>
-  </tr>
-</table>
+<img align="right" width="250" height="240" src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/i%20love%20bug'z.gif?raw=true">
+
+#### **Engines & Tools**
+<img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+#### **Network & API**
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Charles-2C3E50?style=for-the-badge&logo=charles&logoColor=white"> <img src="https://img.shields.io/badge/Fiddler-000?style=for-the-badge&logo=telerik&logoColor=white">
+
+#### **QA Management**
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/TestRail-3BB44A?style=for-the-badge&logo=testrail&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<br clear="right"/>
 
 ---
 
@@ -66,9 +55,8 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
 
 ---
-
+<br>
 <p align="center">
   <sub style="color: #6a737d;">I'm watching</sub><br>
-  <br>
   <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/Sir%20Daniel%20Fortescue.gif?raw=true" width="700" height="300">
 </p>
