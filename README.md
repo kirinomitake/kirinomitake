@@ -13,9 +13,9 @@ In this repository, I share the results of PC and mobile game testing conducted 
 
 ### 🛠 Tech Stack & Tools
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td width="650" valign="middle" style="border: none;">
+    <td width="650" valign="middle" style="border: none; padding: 0;">
       <h4><b>Engines & Tools</b></h4>
       <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white"> 
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
@@ -31,8 +31,8 @@ In this repository, I share the results of PC and mobile game testing conducted 
       <img src="https://img.shields.io/badge/TestRail-3BB44A?style=for-the-badge&logo=testrail&logoColor=white"> 
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
-    <td valign="middle" align="center" style="border: none;">
-      <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/i%20love%20bug'z.gif?raw=true" width="200">
+    <td valign="middle" align="center" style="border: none; padding: 0;">
+      <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/i%20love%20bug'z.gif?raw=true" width="300">
     </td>
   </tr>
 </table>
@@ -65,10 +65,10 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivansiniakov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
 
-
-
 ---
-<br>
+
 <p align="center">
-  <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/Sir%20Daniel%20Fortescue.gif?raw=true" width="700" height= "300">
+  <sub style="color: #6a737d;">I'm watching</sub><br>
+  <br>
+  <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/Sir%20Daniel%20Fortescue.gif?raw=true" width="700" height="300">
 </p>
