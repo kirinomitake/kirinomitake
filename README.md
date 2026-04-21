@@ -55,8 +55,8 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
 
 ---
-<br>
+
 <p align="center">
-  <sub style="color: #6a737d;">I'm watching</sub><br>
+  <sub style="color: #6a737d;">I'm watching</sub><br><br>
   <img src="https://github.com/kirinomitake/kirinomitake/blob/main/assets/Sir%20Daniel%20Fortescue.gif?raw=true" width="700" height="300">
 </p>
