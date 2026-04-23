@@ -55,6 +55,10 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
 
 ---
+### 📄 Test Artifacts
+
+* [**Sludgineers Demo Testing**](https://github.com/kirinomitake/Sludgineers_Demo_Testing) -  showcases the technical testing process for a [Unity/C#] based project. It includes a full cycle of QA activities, from test design to final quality assessment.
+---
 
 <p align="center">
   <sub style="color: #6a737d;">I'm watching</sub><br><br>
