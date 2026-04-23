@@ -48,16 +48,16 @@ As part of my work on various projects (Idle, Strategy, MOBA), I apply a systema
 * **AI-Assisted Efficiency:** Skilled in leveraging **AI tools** to optimize testing processes, write better documentation, and accelerate technical research.
 
 ---
+### 📄 Test Artifacts
+
+* [**Sludgineers Demo Testing**](https://github.com/kirinomitake/Sludgineers_Demo_Testing) -  showcases the technical testing process for a [Unity/C#] based project. It includes a full cycle of QA activities, from test design to final quality assessment.
+---
 
 ### 📫 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirinomitakeHighQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivansiniakov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansinakov6@gmail.com)
 
----
-### 📄 Test Artifacts
-
-* [**Sludgineers Demo Testing**](https://github.com/kirinomitake/Sludgineers_Demo_Testing) -  showcases the technical testing process for a [Unity/C#] based project. It includes a full cycle of QA activities, from test design to final quality assessment.
 ---
 
 <p align="center">
